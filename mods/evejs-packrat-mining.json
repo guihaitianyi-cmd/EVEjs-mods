@@ -1,0 +1,23 @@
+{
+  "author": {
+    "id": "au-mumlvhn7zooq",
+    "keyId": "5130f2c97ae0",
+    "name": "sleephah"
+  },
+  "displayName": "林鼠 · 采矿（Packrat Mining）",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/guihaitianyi-cmd/evejs-mod-evejs-packrat-mining/releases/download/v1.0.0/evejs-packrat-mining-1.0.0.zip"
+    }
+  ],
+  "id": "evejs-packrat-mining",
+  "publishedAt": "2026-09-29",
+  "schemaVersion": 1,
+  "sha256": "f1734865f4927fe1370d82a2681d1191d3136030678e8070a6b8732b79e9e1e2",
+  "sizeBytes": 19351,
+  "source": "guihaitianyi-cmd/evejs-mod-evejs-packrat-mining",
+  "submittedAt": "2026-09-29T15:33:35.973Z",
+  "version": "1.0.0"
+}
